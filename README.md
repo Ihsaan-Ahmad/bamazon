@@ -26,9 +26,9 @@ The app will prompt you to input a value according to the data that will be show
 
 ## Example Screen Shots
 
-   * [bamazon-startup](images\concert-this.PNG) - Running concert-this with default input.
-   * [bamazon-boughtPaper](images\spotify-this-song.PNG) - Running spotify-this-song with default input.
-   * [bamazon-quitFunction](images\movie-this.PNG) - Running movie-this with default input.
+   * [bamazon-startup](https://github.com/Ihsaan-Ahmad/bamazon/blob/master/images/bamazon-startup.PNG) - Running concert-this with default input.
+   * [bamazon-boughtPaper](https://github.com/Ihsaan-Ahmad/bamazon/blob/master/images/bamazon-boughtPaper.PNG) - Running spotify-this-song with default input.
+   * [bamazon-quitFunction](https://github.com/Ihsaan-Ahmad/bamazon/blob/master/images/bamazon-quitFunction-success.PNG) - Running movie-this with default input.
 
 ## Deployment
 
