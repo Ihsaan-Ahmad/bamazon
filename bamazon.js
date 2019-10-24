@@ -53,7 +53,7 @@ var promptCustomer = function (res) {
                     }
                 }).then(function (answer) {
                     if ((res[id].stock_quantity - answer.quantity) > 0) {
-                        connection.query("UPDATE products SET stock_quantity='" + (res[id].stock_quantity - answer.quant) + "' WHERE product_name = ' " + product + " ' ", function (err, res2) {
+                        connection.query("UPDATE products SET stock_quantity='" + (res[id].stock_quantity - answer.quantity) + "' WHERE product_name = ' " + product + " ' ", function (err, res2) {
                             console.log('Product Bought!');
                             makeTable();
                         })
